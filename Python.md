@@ -1,4 +1,4 @@
-## Django Tutorials:
+### Django Tutorials:
 
 - [Django Girls](https://tutorial.djangogirls.org/en/)
 - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
